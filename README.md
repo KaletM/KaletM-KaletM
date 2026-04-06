@@ -47,4 +47,3 @@ An internship where I can contribute to real projects, keep growing as a develop
 ### 📫 Reach me
 
 [![Email](https://img.shields.io/badge/Email-kaletmelendezarce%40gmail.com-blue?style=flat&logo=gmail)](mailto:kaletmelendezarce@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kalet%20Melendez-blue?style=flat&logo=linkedin)]([https://linkedin.com](https://www.linkedin.com/in/kalet-melendez-arce-b48b5435b/))
